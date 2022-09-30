@@ -1,6 +1,6 @@
 ### Hi I'm John
 
-### I an aspiring backend developer
+### An aspiring backend developer
 
 
 <!--
