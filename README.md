@@ -4,7 +4,7 @@
 <h1 align='center'>Hello Visitor</h1>
   
 <h2> About me</h2>
-<p>I am John Castillo. Currently studying at CVSU Philippines taking BSIT. I am an aspiring backend developer</p>
+<p>I am John Castillo. I'm an aspiring web developer</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div>
